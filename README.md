@@ -1,2 +1,1 @@
-# hello-world
-Test
+#This project will print hello world.
